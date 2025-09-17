@@ -1,11 +1,8 @@
 E-Commerce Sales Analysis Dashboard 📊
-
 This project presents a comprehensive, interactive dashboard designed to provide key insights into e-commerce sales performance. Developed using Power BI 🖥️, it transforms raw sales data into actionable intelligence, enabling businesses to make data-driven decisions. This dashboard serves as a capstone project demonstrating expertise in data visualization, business intelligence, and sales analytics.
 
-******************************************************************************************************************************************
-
+********************************************************************************************************************************************************************************************************************
 Key Features & Insights 💡
-
 The dashboard is structured to provide a holistic view of business performance, from high-level summaries to detailed product and geographic analysis. Each visual serves a specific purpose in uncovering valuable data insights.
 
 1. Executive Summary & KPIs 📈
@@ -62,8 +59,7 @@ Purpose: A bar chart that compares the average revenue generated from new vs. re
 
 Features: It clearly quantifies the financial value of loyal customers compared to newly acquired ones.
 
-******************************************************************************************************************************************
-
+********************************************************************************************************************************************************************************************************************
 Interactivity: Filters & Slicers 🖱️
 
 This dashboard is fully interactive, allowing users to drill down into specific data points with ease. The slicers on the right-hand side of the dashboard are a powerful feature, enabling dynamic filtering of all visuals simultaneously.
@@ -78,8 +74,7 @@ Country, State: Enables geographical filtering to analyze sales and profit by a 
 
 These slicers empower the user to go beyond the static overview and conduct their own ad-hoc analysis, making the dashboard a versatile and powerful business intelligence tool.
 
-******************************************************************************************************************************************
-
+*********************************************************************************************************************************************************************************************************************
 Project Details & Links 🔗
 Platform: Power BI
 
@@ -95,7 +90,6 @@ Project PDF: [https://drive.google.com/file/d/18vnQ4mwY2vXXaF_GpPMmgOVrhWFSgoLT/
 
 GitHub Repository: [https://github.com/nikki242002/E-Commerce_Sales_Analysis]
 
-******************************************************************************************************************************************
-
+*********************************************************************************************************************************************************************************************************************
 Conclusion ✨
 This dashboard is a robust analytical tool that demonstrates a strong foundation in business intelligence. It provides a clear, interactive, and insightful view of an e-commerce business, supporting strategic decision-making and performance monitoring.
