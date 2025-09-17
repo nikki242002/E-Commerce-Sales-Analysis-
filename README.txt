@@ -1,7 +1,7 @@
 E-Commerce Sales Analysis Dashboard 📊
 This project presents a comprehensive, interactive dashboard designed to provide key insights into e-commerce sales performance. Developed using Power BI 🖥️, it transforms raw sales data into actionable intelligence, enabling businesses to make data-driven decisions. This dashboard serves as a capstone project demonstrating expertise in data visualization, business intelligence, and sales analytics.
 
-********************************************************************************************************************************************************************************************************************
+***********************************************************************************************************************************************************
 Key Features & Insights 💡
 The dashboard is structured to provide a holistic view of business performance, from high-level summaries to detailed product and geographic analysis. Each visual serves a specific purpose in uncovering valuable data insights.
 
@@ -93,3 +93,4 @@ GitHub Repository: [https://github.com/nikki242002/E-Commerce_Sales_Analysis]
 *********************************************************************************************************************************************************************************************************************
 Conclusion ✨
 This dashboard is a robust analytical tool that demonstrates a strong foundation in business intelligence. It provides a clear, interactive, and insightful view of an e-commerce business, supporting strategic decision-making and performance monitoring.
+
